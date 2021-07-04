@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "classbook-19cc3": {
+      "hosting": {
+        "classbook": [
+          "classbook-19cc3"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "classbook-19cc3"
+  }
+}
